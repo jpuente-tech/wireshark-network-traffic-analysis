@@ -59,7 +59,7 @@ that the Girls room response directly answered the earlier Living Room query.
 
 ### IPv6 Conversation Analysis 
 
-![Wireshark IPv6 Conversation](screenshots/ipv6-conversation.png)
+![Wireshark IPv6 Conversation](ipv6-conversation.png)
 
 ## Conclusion
 
